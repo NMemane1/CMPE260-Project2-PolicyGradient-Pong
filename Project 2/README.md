@@ -15,7 +15,7 @@ A three-way comparison of DQN, REINFORCE, and A2C on the ALE/Pong-v5 environment
 Project 2/
 ├── code/              # Jupyter notebook with full pipeline
 ├── figures/           # Training curves, evaluation plots, bias diagnostics
-├── presentation/      # 17-slide presentation (matched to Project 1 template)
+├── presentation/      # 18-slide presentation (matched to Project 1 template)
 ├── report/            # IEEE-format project report (PDF)
 └── results/           # Training summaries and CSVs
 ```
@@ -28,7 +28,7 @@ Project 2/
 | A2C | -20.68 | -21.00 | Not reached |
 
 ## How to Run
-1. Open `code/CMPE260_Project2_PolicyGradient_Pong-2.ipynb` in Google Colab
+1. Open `code/CMPE260_RL_Project2_PolicyGradient_Pong.ipynb` in Google Colab
 2. Select a T4 GPU runtime
 3. Run all cells (cached results load from Google Drive; full retraining takes ~2 hours)
 
