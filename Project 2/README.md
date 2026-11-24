@@ -15,8 +15,8 @@ A three-way comparison of DQN, REINFORCE, and A2C on the ALE/Pong-v5 environment
 Project 2/
 ├── code/              # Jupyter notebook with full pipeline
 ├── figures/           # Training curves, evaluation plots, bias diagnostics
-├── presentation/      # 18-slide presentation (matched to Project 1 template)
-├── report/            # IEEE-format project report (PDF)
+├── presentation/      # 17-slide presentation (matched to Project 1 template)
+├── report/            # 12-page project report in Project 1 style (PDF)
 └── results/           # Training summaries and CSVs
 ```
 
