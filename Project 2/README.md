@@ -24,8 +24,8 @@ Project 2/
 | Algorithm | Final Mean-100 | Eval (30 ep) | Convergence |
 |-----------|---------------|-------------|-------------|
 | DQN (Project 1) | 19.55 | 21.00 | ~1.25M steps |
-| REINFORCE | -20.33 | -21.00 | Not reached |
-| A2C | -20.65 | -21.00 | Not reached |
+| REINFORCE | -20.07 | -21.00 | Not reached |
+| A2C | -20.68 | -21.00 | Not reached |
 
 ## How to Run
 1. Open `code/CMPE260_Project2_PolicyGradient_Pong-2.ipynb` in Google Colab
